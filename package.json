@@ -1,0 +1,25 @@
+{
+  "name": "jk-map",
+  "version": "0.0.6",
+  "description": "jiankun_map精简版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/CyanH/map.git"
+  },
+  "keywords": [
+    "GIS","Map"
+  ],
+  "dependencies": {
+    "esri-loader": "^2.13.0"
+  },
+  "author": "Cyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyanH/map/issues"
+  },
+  "homepage": "https://github.com/CyanH/map#readme"
+}
